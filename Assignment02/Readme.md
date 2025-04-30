@@ -1,8 +1,4 @@
 # React Mastery 02
 
-Understand basic routing using react-router-dom
-
-Create multiple pages
-
-About us 
-Home Contact
+Start Website by using vitejs and tailwind css
+watch recording class 03  nextjs 
